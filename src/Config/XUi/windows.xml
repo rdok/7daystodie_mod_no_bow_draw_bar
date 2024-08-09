@@ -1,0 +1,4 @@
+<no-bow-draw-bar>
+    <setattribute xpath="//window[@name='windowThrow']" name="visible">false</setattribute>
+    <setattribute xpath="//window[@name='windowThrow']" name="force_hide">true</setattribute>
+</no-bow-draw-bar>
